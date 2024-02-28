@@ -1,6 +1,6 @@
 # touristapp
 
-A new Flutter project.
+A tourist places in Kerala app would be a great tool for anyone planning a trip to Kerala. The app would help tourists explore the best of Kerala's tourist destinations and make their trip more enjoyable and memorable.
 
 ## Getting Started
 
